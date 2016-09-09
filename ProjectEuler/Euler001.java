@@ -1,3 +1,5 @@
+package ProjectEuler;
+
 import java.io.*;
 import java.util.*;
 
